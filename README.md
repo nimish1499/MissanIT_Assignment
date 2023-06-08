@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Get Favourite dish
 
-This is a responsive page, that filters out food images and deoending in the time of the day
+This is a responsive page containing a photo gallery of food dishes and then you filter out food images depending upon the time of the day
 
 In the project directory, you can run:
 
