@@ -2,7 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Get Favourite dish
+
+This is a responsive page, that filters out food images and deoending in the time of the day
 
 In the project directory, you can run:
 
